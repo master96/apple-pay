@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/master96/apple-pay/static/css/main.a617e044.chunk.css",
+    "main.js": "/master96/apple-pay/static/js/main.4dfe8b13.chunk.js",
+    "main.js.map": "/master96/apple-pay/static/js/main.4dfe8b13.chunk.js.map",
+    "runtime-main.js": "/master96/apple-pay/static/js/runtime-main.468c3bac.js",
+    "runtime-main.js.map": "/master96/apple-pay/static/js/runtime-main.468c3bac.js.map",
+    "static/js/2.d14e8c16.chunk.js": "/master96/apple-pay/static/js/2.d14e8c16.chunk.js",
+    "static/js/2.d14e8c16.chunk.js.map": "/master96/apple-pay/static/js/2.d14e8c16.chunk.js.map",
+    "static/js/3.6b6afaa7.chunk.js": "/master96/apple-pay/static/js/3.6b6afaa7.chunk.js",
+    "static/js/3.6b6afaa7.chunk.js.map": "/master96/apple-pay/static/js/3.6b6afaa7.chunk.js.map",
+    "index.html": "/master96/apple-pay/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/master96/apple-pay/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d14e8c16.chunk.js.LICENSE.txt": "/master96/apple-pay/static/js/2.d14e8c16.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/master96/apple-pay/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468c3bac.js",
+    "static/js/2.d14e8c16.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4dfe8b13.chunk.js"
+  ]
+}
